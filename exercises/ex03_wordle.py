@@ -1,3 +1,5 @@
+"""Code to create a wordle game!"""
+
 __author__ = "730748019"
 
 
